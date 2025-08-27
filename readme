@@ -1,0 +1,33 @@
+# C Projects - University
+
+This repository contains a collection of C programming exercises and projects developed during my **Computer Engineering degree at UEMA**.  
+It is intended as both a personal archive of my learning process and a resource for other students exploring C programming fundamentals.
+
+## 📚 Contents
+The projects in this repository cover:
+- Basic programming concepts
+- Arrays and matrices
+- Structs
+- Pointers
+- Dynamic memory allocation
+- Introduction to data structures
+
+## 📂 Repository Structure
+- **exercises/** → Small codes and practice exercises (arrays, matrices, structs, pointers, etc.)
+- **projects/** → Larger academic projects developed during the course
+
+## 🎯 Goals
+- Practice and consolidate core concepts of C
+- Document my academic progress in Computer Engineering
+- Share knowledge with other students interested in programming
+
+## 🛠️ Tools
+- **Language:** C
+- **IDE/Compiler:** Code::Blocks, GCC
+
+## 📖 About Me
+I am a Computer Engineering student at **UEMA (Universidade Estadual do Maranhão)**, interested in programming, problem solving, and learning how computer systems work from the ground up.
+
+---
+
+✨ Feel free to explore, fork, and use these codes as study material.
